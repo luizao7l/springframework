@@ -1,5 +1,5 @@
 
-package dio.gof;
+package Singleton;
 
 public class SingletonLazyHolder {
     private static class InstanceHolder {

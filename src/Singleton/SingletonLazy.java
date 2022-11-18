@@ -1,4 +1,4 @@
-package dio.gof;
+package Singleton;
 
 public class SingletonLazy {
     private static  SingletonLazy instancia;

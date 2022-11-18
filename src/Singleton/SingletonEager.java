@@ -1,5 +1,5 @@
 
-package dio.gof;
+package Singleton;
 
 public class SingletonEager {
     private static SingletonEager instancia = new SingletonEager();
